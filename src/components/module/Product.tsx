@@ -17,7 +17,7 @@ function Product() {
             width={64}
             height={64}
             className="size-[64px]"
-            alt="crown"
+            alt="crowcn"
             priority
           />
           <h2 className="text-2xl font-semibold">اشتراک یک ماهه برنزی</h2>
