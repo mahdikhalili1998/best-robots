@@ -13,7 +13,7 @@ function Product() {
         {/* crown */}
         <div className="flex flex-col items-center justify-center gap-4">
           <Image
-            src={"/image/crown.png"}
+            src={"/images/crown.png"}
             width={64}
             height={64}
             className="size-[64px]"

@@ -16,7 +16,7 @@ function Header() {
       <div className="mt-6 flex items-center justify-between rounded-2xl bg-white p-4">
         <div className="flex gap-2 items-center">
           <Image
-            src={"/image/profilePhoto.png"}
+            src={"/images/profilePhoto.png"}
             width={70}
             height={70}
             alt="profilePhoto"
