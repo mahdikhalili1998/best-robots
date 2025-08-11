@@ -13,6 +13,10 @@ module.exports = {
       colors: {
         "main-bg": "#F8F8F8",
         lightDark: "#747893",
+        lightBlue: "#29C6D8",
+        primaryGreen: "#05A657",
+        borderDark: "#CFD2E3",
+        primaryYellow: "#FFA700",
       },
     },
   },
