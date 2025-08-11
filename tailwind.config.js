@@ -17,6 +17,7 @@ module.exports = {
         primaryGreen: "#05A657",
         borderDark: "#CFD2E3",
         primaryYellow: "#FFA700",
+        footerBg: "#E4F6E7",
       },
     },
   },
