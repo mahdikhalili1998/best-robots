@@ -10,6 +10,10 @@ module.exports = {
       fontFamily: {
         iransans: ["IRANSansXFaNum"],
       },
+      colors: {
+        "main-bg": "#F8F8F8",
+        lightDark: "#747893",
+      },
     },
   },
   plugins: [],
