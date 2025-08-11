@@ -7,6 +7,7 @@ import Warning from "../icon/Warning";
 
 function Product() {
   const [code, setCode] = useState("");
+  // console.log('hi')
   return (
     <div>
       <div className="mx-4 rounded-2xl bg-white p-6">
